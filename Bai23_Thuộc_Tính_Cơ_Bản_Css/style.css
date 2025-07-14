@@ -1,0 +1,58 @@
+body {
+  /* hình nền cho web */
+  background-image: url(./img/kirara.png);
+}
+h1 {
+  /* màu chữ */
+  color: blueviolet;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* chuyển viết HOA - thường */
+  text-transform: uppercase;
+  /* căn giữa */
+  text-align: center;
+  /* cỡ chữ */
+  font-size: 50px;
+  /* Độ mờ */
+  opacity: 1;
+}
+h2 {
+  /* màu chữ */
+  color: blueviolet;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* chuyển viết HOA - thường */
+  text-transform: uppercase;
+  /* căn giữa */
+  text-align: center;
+  /* cỡ chữ */
+  font-size: 50px;
+  /* Độ mờ */
+  /* opacity: 30%; */
+  /* làm mất không gian chứa phần tử */
+  /* display: none; */
+  visibility: hidden;
+}
+h3 {
+  /* màu chữ */
+  color: blueviolet;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* chuyển viết HOA - thường */
+  text-transform: uppercase;
+  /* căn giữa */
+  text-align: center;
+  /* cỡ chữ */
+  font-size: 50px;
+  /* Độ mờ */
+  opacity: 1;
+}
+span {
+  visibility: visible;
+}

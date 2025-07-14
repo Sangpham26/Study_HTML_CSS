@@ -1,0 +1,21 @@
+#doan_van_2 {
+  color: red;
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+.demo {
+  color: blueviolet;
+  font-size: 20px;
+}
+
+.demo2 {
+  text-align: center;
+}
+
+.item_ol_1 {
+  list-style: none;
+}
