@@ -1,0 +1,8 @@
+.loichuc p {
+  font-size: 30px;
+}
+
+.demo.demo2 + h3,
+p {
+  color: red;
+}
